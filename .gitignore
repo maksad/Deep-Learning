@@ -1,0 +1,11 @@
+report*.aux
+report*.fdb_latexmk
+report*.fls
+report*.log
+report*.out
+report*.py.err
+latex.py
+report*.synctex.gz
+_minted-report*
+*.snippets
+ex1/.ipynb_checkpoints/KernelCourse2019_Exercise01-checkpoint.ipynb
