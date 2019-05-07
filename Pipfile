@@ -12,6 +12,8 @@ torchvision = "==0.2.1"
 scipy = "*"
 opencv-python = "*"
 tqdm = "*"
+pandas = "*"
+matplotlib = "*"
 
 [requires]
 python_version = "3.7"
